@@ -5,7 +5,7 @@ I started this project by following an article on Cyberacademy (https://cybercad
 In this document I will be recording my progress in this project as I work on it.  
 (Please note this document is being created after I started the project. I will be including a summary of progress up until now, but it will not be as detailed/accurate as I probably won't remember everything)
 
-# 11/22/24
+# 11/9/2024 - 11/22/24
 Created the Project summary document, a summary of the project so far is as follows:
 
 I first implemented a Windows Server 2022 to host Active Directory services.  This server also hosts DNS for the local domain and DHCP.  The domain hosted on this server is called CYBER.local
